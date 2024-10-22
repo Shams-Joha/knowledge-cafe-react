@@ -1,0 +1,54 @@
+[
+    {
+      "id": 101,
+      "cover": "https://i.ibb.co.com/hFxkjXq/life-is-journey-exploration-adventure-traveling.jpg",
+      "title": "The Lost Chronicles",
+      "author": "Sarah Winters",
+      "author_img": "thumbnail-101.jpg",
+      "posted_date": "2024-09-15",
+      "reading_time": 8,
+      "hashtags": ["#Adventure", "#Fantasy", "#Epic"]
+    },
+    {
+      "id": 102,
+      "cover": "https://i.ibb.co.com/bg3xhq9/makeup-brush-eyeglasses-cactus-plant-white-flower-bouquet-with-laptop-blue-background.jpg",
+      "title": "Echoes of Eternity",
+      "author": "James Holloway",
+      "author_img": "thumbnail-102.jpg",
+      "posted_date": "2024-10-01",
+      "reading_time": 5,
+      "hashtags": ["#SciFi", "#Mystery", "#Thriller"]
+    },
+    {
+      "id": 103,
+      "cover": "https://i.ibb.co.com/sPxS5rr/flat-lay-desktop-with-notebook-pizza.jpg",
+      "title": "Whispers in the Wind",
+      "author": "Olivia Rivera",
+      "author_img": "thumbnail-103.jpg",
+      "posted_date": "2024-08-23",
+      "reading_time": 7,
+      "hashtags": ["#Romance", "#Drama", "#Fiction"]
+    },
+    {
+      "id": 104,
+      "cover": "https://i.ibb.co.com/mcP8f1w/11049360.jpg",
+      "title": "The Last Frontier",
+      "author": "Dylan Carter",
+      "author_img": "thumbnail-104.jpg",
+      "posted_date": "2024-09-30",
+      "reading_time": 6,
+      "hashtags": ["#Adventure", "#Travel", "#Exploration"]
+    },
+    {
+      "id": 105,
+      "cover": "https://i.ibb.co.com/bWKbvg8/7085760.jpg",
+      "title": "Beneath the Surface",
+      "author": "Isabella Moreno",
+      "author_img": "thumbnail-105.jpg",
+      "posted_date": "2024-10-10",
+      "reading_time": 9,
+      "hashtags": ["#Mystery", "#Crime", "#Suspense"]
+    }
+  ]
+  
+
