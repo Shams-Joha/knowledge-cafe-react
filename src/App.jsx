@@ -14,8 +14,12 @@ function App() {
     setBookmarks(newBookmarks);
   }
 
-  const handleMarkAsRead = time => {
+  const handleMarkAsRead = (id, time) => {
     setReadingTime(readingTime + time);
+    // console.log('remove Bookmark', id)
+    
+    const remainingBookmarks = bookmarks.filter(bookmark => bookmark.id !== id) // show me the ones that does not fall under this rule
+    setBookmarks(remainingBookmarks);
   }
 
   return (
